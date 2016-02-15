@@ -1,5 +1,5 @@
 {
-    "name": "Kingsmanscode/JsonLibEx",
+    "name": "kingsmanscode/jsonlibex",
     "type" : "library",
     "version": "1.0.0",
     "keywords": ["util", "functional"],
