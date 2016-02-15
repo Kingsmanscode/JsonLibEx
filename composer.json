@@ -1,0 +1,11 @@
+{
+    "name": "Kingsmanscode/JsonLibEx",
+    "type" : "library",
+    "version": "1.0.0",
+    "keywords": ["util", "functional"],
+    "author": "raditya",
+    "contributors": [],
+    "dependencies": {
+        
+    }
+}
